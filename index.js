@@ -1,3 +1,1 @@
-require('./lib/cloud');
-
-module.exports = Parse;
+module.exports = require('./lib/cloud');
